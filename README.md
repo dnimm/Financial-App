@@ -26,12 +26,19 @@ pip install -r requirements.txt
 Create a .env file
 
 COGNITO_REGION=your_region
+
 COGNITO_POOL_ID=your_user_pool_id
+
 COGNITO_CLIENT_ID=your_client_id
+
 COGNITO_CLIENT_SECRET=your_client_secret
+
 COGNITO_DOMAIN=https://your-cognito-domain.auth.your-region.amazoncognito.com
+
 COGNITO_REDIRECT_URI=http://127.0.0.1:5000/users/callback
+
 FRONTEND_URL=http://localhost:5173
+
 ALPHAVANTAGE_API_KEY=your_alpha_vantage_key
 
 Run backend:
