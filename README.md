@@ -16,12 +16,4 @@ This project contains a Flask backend and a React frontend for managing investme
 - Buy and sell securities
 - View transaction history with timestamp, ticker, action, shares, and amount
 
-## Project Structure
-
-```text
-
-
-frontend/
-  src/
-  package.json
-  vite.config.js
+<img width="2880" height="1800" alt="Screenshot 2026-05-12 at 9 46 04 PM" src="https://github.com/user-attachments/assets/e8b03031-1830-442d-9f0f-2b077d0153ac" />
